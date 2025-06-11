@@ -7,17 +7,13 @@ The robot uses solenoid valves to drive pneumatic actuators, enabling precise pi
 
 
 Tools and Technologies Used:
----------------------------------------------------------------------
-|        Description        |        Components                     |    
----------------------------------------------------------------------
-|  Controller               |   Delta DVP14SS2 PLC                  |
-|  Pneumatic Actuation      |   Double Acting  5/2 Solenoid valves  |
-|  Power Supply             |   MCB,SMPS, Industrial Relay          |
-|  Programming              |   Ladder Logic Design                 |
-|  Software                 |   AutoCAD mechanicl,WPLSoft 2.52      |
-|  Gripper                  |   Mechanical Gripper                  |
-|  Wiring Components        |   Terminal Blocks,Wires,Connectors    |
----------------------------------------------------------------------
+Controller                Delta DVP14SS2 PLC                 
+Pneumatic Actuation       Double Acting  5/2 Solenoid valves  
+Power Supply              MCB,SMPS, Industrial Relay         
+Programming               Ladder Logic Design                 
+Software                  AutoCAD mechanicl,WPLSoft 2.52      
+Gripper                   Mechanical Gripper                  
+Wiring Components         Terminal Blocks,Wires,Connectors    
 
 Working Principle:
 
